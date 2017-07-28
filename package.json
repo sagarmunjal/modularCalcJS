@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "express-livereload": "0.0.24",
+    "live-reload": "*",
+    "livereload": "^0.6.2",
+    "underscore": "*"
+  }
+}
